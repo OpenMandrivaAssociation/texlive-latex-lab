@@ -1,6 +1,6 @@
 Name:		texlive-latex-lab
-Version:	64892
-Release:	2
+Version:	68720
+Release:	1
 Summary:	LaTeX laboratory
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/latex-lab
