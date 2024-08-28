@@ -1,5 +1,5 @@
 Name:		texlive-latex-lab
-Version:	68720
+Version:	71408
 Release:	1
 Summary:	LaTeX laboratory
 Group:		Publishing
