@@ -3,7 +3,7 @@ Version:	71408
 Release:	1
 Summary:	LaTeX laboratory
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/latex-lab
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/latex-lab
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/latex-lab.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/latex-lab.doc.r%{version}.tar.xz
